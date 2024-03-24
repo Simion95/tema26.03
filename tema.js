@@ -1,30 +1,3 @@
-const cartProducts = [
-    {
-        id: 3012,
-        price: 199,
-        name: 'Product X',
-        quantity: 1,
-    },
-    {
-        id: 931,
-        price: 60,
-        name: 'Product Y',
-        quantity: 2,
-    },
-    {
-        id: 5672,
-        price: 110,
-        name: 'Product Z',
-        quantity: 5,
-    },
-    {
-        id: 5672,
-        price: 110,
-        name: 'Product A',
-        quantity: 7,
-    },
-];
-
 //  Tema 26.03
 // ex 1
 const getDeliveryMessage = (arrayOfProducts) => {
